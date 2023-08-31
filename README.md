@@ -3,6 +3,9 @@ This is a repository where i'll put all the exercises and things I'll learn from
 
 ## Roadmap
 - [X] Cap 1
+- [X] 1.1
+- [X] 1.2
+- [X] 1.3
 - [X] Cap 2
 - [ ] Cap 3
 - [ ] Cap 4
