@@ -1,5 +1,6 @@
 # Rust-book
-This is a repository where i'll put all the exercises and things I'll learn from [The Rust Programming Language Book](https://rust-book.cs.brown.edu/experiment-intro.html)
+This is a repository where i'll put all the exercises and things I'll learn from [The Rust Programming Language Book](https://rust-book.cs.brown.edu/experiment-intro.html).
+Here I'll also try to learn how to properly use GitHub.
 
 ## Roadmap
 - [X] Cap 1
