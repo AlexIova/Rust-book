@@ -15,6 +15,11 @@ Here I'll also try to learn how to properly use GitHub.
 - [X] 3.4
 - [X] 3.5
 - [ ] Cap 4
+- [X] 4.1
+- [ ] 4.2
+- [ ] 4.3
+- [ ] 4.4
+- [ ] 4.5
 - [ ] Cap 5
 - [ ] Cap 6
 - [ ] Cap 7
