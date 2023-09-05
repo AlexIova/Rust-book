@@ -1,0 +1,13 @@
+/* This are called now-owning pointers */
+fn main() {
+    let m1 = String::from("Hello");
+    let m2 = String::from("world");
+    // Adesso passo per riferimento
+    greet(&m1, &m2); // note the ampersands
+    let s = format!("{} {}", m1, m2);
+    println!("{s}");
+}
+
+fn greet(g1: &String, g2: &String) { // note the ampersands
+    println!("{} {}!", g1, g2);
+}
